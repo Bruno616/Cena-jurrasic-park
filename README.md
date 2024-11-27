@@ -17,5 +17,7 @@ link: https://assetstore.unity.com/packages/3d/characters/city-people-free-sampl
 
 <h2>Velociraptors</h2>
 <p>
-
+Agora pro nosso inimigo usamos também um asset da asset store, um asset completo de dinossauros(animação, sons, texturas, prefbs, etc). usamos os modelos e variações de Velociraptors, usando também um animator para colocar uma animação de corrida nos dinossauros.
+<br>
+link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-dinosaurs-256019
 </p>
