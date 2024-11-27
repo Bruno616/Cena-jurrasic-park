@@ -21,3 +21,6 @@ Agora pro nosso inimigo usamos também um asset da asset store, um asset complet
 <br>
 link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-dinosaurs-256019
 </p>
+
+![Screenshot_20241126_232616_Gallery.jpg](https://github.com/user-attachments/assets/6262b1d1-3a68-4ebd-b765-e3b98796275a)
+
