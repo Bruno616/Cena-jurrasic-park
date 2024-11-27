@@ -10,3 +10,6 @@ Usamos esse asset de alguns personagens padrões low poly, no caso usamos a cria
 <br>
 link: https://assetstore.unity.com/packages/3d/characters/city-people-free-samples-260446
 </p>
+
+![Screenshot_20241126_230006_Chrome.jpg](https://github.com/user-attachments/assets/853bfdaa-4285-430d-a0fb-4c897e29245d)
+
