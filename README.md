@@ -3,6 +3,8 @@
 
 <h1>Introdução aos personagens</h1>
 
+<h2>Tim Murphy, Protagonista</h2>
+
 <p>
 No nosso jogo usamos alguns assets da asset store para colocar os personagens.
 <br>
@@ -13,3 +15,7 @@ link: https://assetstore.unity.com/packages/3d/characters/city-people-free-sampl
 
 ![Screenshot_20241126_230006_Chrome.jpg](https://github.com/user-attachments/assets/853bfdaa-4285-430d-a0fb-4c897e29245d)
 
+<h2>Velociraptors</h2>
+<p>
+
+</p>
