@@ -26,4 +26,4 @@ link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-d
 
 <hr>
 
-![Diagrama.jpg]
+![Screenshot_20241128_065027_Gallery.jpg](https://github.com/user-attachments/assets/e4d9ce4b-1319-49dc-856c-d338d4ff04db)
