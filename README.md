@@ -9,12 +9,19 @@ Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvi
 
 ![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
 
-<h1>Analise e explicação do filme e cena</h1>
+<h1>Descrição do filme</h1>
 <p>
 
 </p>
 
 
+
+<h1>Descrição da Cena</h1>
+<p>
+
+</p>
+
+<hr>
 
 <h1>Personagens e assets utilizados</h1>
 
