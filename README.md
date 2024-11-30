@@ -38,6 +38,10 @@ link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-d
 
 <hr>
 
+<h2>Vídeo do jogo:</h2>
+
+https://youtu.be/tRk2zu3s-V0?si=aXhF4yzuKy0QEdwJ
+
 <h2>Link do Drive:</h2>
 
 https://drive.google.com/drive/folders/1hp0z-iXqjCD0IBqR-WdqBbcr8bCJI2Ic?usp=drive_link
