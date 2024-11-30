@@ -1,6 +1,8 @@
 # Cena-jurrasic-park
 <h1>Alunos: <br> Bruno Queiroz Plata <br> Henrique Kenji</h1>
 
+<h2>Introdução</h2>
+
 <p>
 Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvimento do nosso jogo. O projeto foi inspirado na icônica cena da cozinha do filme Jurassic Park (1993), onde Velociraptors perseguem os protagonistas em uma cena tensa e claustrofóbica. Nosso objetivo foi reimaginar essa cena na forma de um jogo, tentando trazer a experiência do filme em um jogo.
 </p>
@@ -14,7 +16,7 @@ Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvi
 
 
 
-<h1>Introdução aos personagens e assets utilizados</h1>
+<h1>Personagens e assets utilizados</h1>
 
 <h2>Tim Murphy, Protagonista</h2>
 
