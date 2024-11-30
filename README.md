@@ -56,6 +56,18 @@ link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-d
 
 <h1>Analise das Cores do filme</h1>
 <p>
+No filme a teoria das cores intensifica a narrativa e provoca diferentes emoções. Cada cor reflete a tensão entre o controle humano e a força da natureza.
+
+De dia, os tons de verde (#4B8B3B) e marrom (#7B5E57) representam a vegetação e a terra, sugerindo harmonia e equilíbrio sob controle humano. À noite, tons de azul (#4A90E2) dominam, criando suspense e destacando a vulnerabilidade, especialmente em cenas chuvosas, como o ataque do T-Rex.
+
+Cores quentes, como vermelho (#AB0800) e laranja (#FF6F00), simbolizam perigo e urgência, com o vermelho em luzes de emergência e o laranja destacando momentos críticos. Preto (#000000) e cinza (#696969) associam-se aos predadores e às cercas, reforçando a ameaça e a fragilidade humana.
+
+A iluminação complementa a paleta: luz natural quente durante o dia cria uma falsa segurança, enquanto a luz artificial noturna, com sombras e faróis, aumenta a tensão. Os veículos amarelo (#FFD700) e verde (#6DA544) integram tecnologia e natureza, mas suas cores vibrantes também os tornam alvos fáceis.
+
+</p>
+
+<h1>Analise das Cores da Cena</h1>
+<p>
 
 </p>
 
