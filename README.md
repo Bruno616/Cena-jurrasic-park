@@ -5,9 +5,7 @@
 Nessa documentação relataremos o nosso processo criativo e desenvolvimento geral do jogo, inspirado na cena da cozinha do filme jurassic park 1.
 </p>
 
-![boku-no-hero-reage-a-outros-universos-24064609-140720221415.jpg](https://github.com/user-attachments/assets/5ebfb3f1-b3f8-41d9-9159-d4d1c2b0d489)
-
-
+![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
 
 <h1>Analise e explicação do filme e cena</h1>
 <p>
