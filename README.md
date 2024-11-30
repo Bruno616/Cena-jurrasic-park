@@ -1,6 +1,13 @@
 # Cena-jurrasic-park
 <h1>Alunos: <br> Bruno Queiroz Plata <br> Henrique Kenji</h1>
 
+<p>
+Nessa documentação relataremos o nosso processo criativo e desenvolvimento geral do jogo, inspirado na cena da cozinha do filme jurassic park 1.
+</p>
+
+
+
+
 <h1>Analise e explicação do filme e cena</h1>
 <p>
 
