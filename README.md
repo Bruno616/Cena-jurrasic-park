@@ -1,6 +1,13 @@
 # Cena-jurrasic-park
 <h1>Alunos: <br> Bruno Queiroz Plata <br> Henrique Kenji</h1>
 
+<h1>Analise e explicação do filme e cena</h1>
+<p>
+
+</p>
+
+
+
 <h1>Introdução aos personagens e assets utilizados</h1>
 
 <h2>Tim Murphy, Protagonista</h2>
