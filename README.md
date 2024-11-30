@@ -11,7 +11,11 @@ Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvi
 
 <h1>Descrição do filme</h1>
 <p>
+Jurassic Park é uma obra de ficção científica escrita por Michael Crichton, publicada originalmente em 1990, que se tornou um marco cultural graças à sua adaptação cinematográfica de 1993 dirigida por Steven Spielberg. A história gira em torno de um parque temático inovador, criado pelo bilionário John Hammond, onde dinossauros extintos são recriados geneticamente por meio da manipulação de DNA fossilizado.
 
+A trama principal se desenvolve quando um grupo de especialistas – incluindo o paleontólogo Dr. Alan Grant, a paleobotânica Dra. Ellie Sattler e o matemático Dr. Ian Malcolm – são convidados para avaliar a segurança do parque antes de sua abertura ao público. No entanto, o que começa como uma jornada fascinante pela ciência rapidamente se transforma em uma luta pela sobrevivência, quando as medidas de segurança falham e os dinossauros, incluindo o temido Tiranossauro Rex e os astutos Velociraptors, escapam de seus recintos.
+
+Jurassic Park explora temas como ética científica, arrogância humana, a imprevisibilidade da natureza e as consequências de brincar de "Deus". Além disso, destaca a relação entre tecnologia e controle, levantando questões filosóficas sobre até onde a ciência deve ir. A obra combina tensão, ação e ciência, tornando-se uma das mais icônicas histórias da cultura pop, reconhecida tanto por sua narrativa instigante quanto pelos avanços tecnológicos em efeitos especiais introduzidos no filme.
 </p>
 
 
