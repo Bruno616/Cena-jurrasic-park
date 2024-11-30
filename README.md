@@ -9,6 +9,8 @@ Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvi
 
 ![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
 
+<hr>
+
 <h1>Descrição do filme</h1>
 <p>
 Jurassic Park é uma obra de ficção científica escrita por Michael Crichton, publicada originalmente em 1990, que se tornou um marco cultural graças à sua adaptação cinematográfica de 1993 dirigida por Steven Spielberg. A história gira em torno de um parque temático inovador, criado pelo bilionário John Hammond, onde dinossauros extintos são recriados geneticamente por meio da manipulação de DNA fossilizado.
@@ -49,6 +51,13 @@ link: https://assetstore.unity.com/packages/3d/characters/animals/pbr-animated-d
 </p>
 
 ![Screenshot_20241126_232616_Gallery.jpg](https://github.com/user-attachments/assets/6262b1d1-3a68-4ebd-b765-e3b98796275a)
+
+<hr>
+
+<h1>Analise das Cores do filme</h1>
+<p>
+
+</p>
 
 <hr>
 
