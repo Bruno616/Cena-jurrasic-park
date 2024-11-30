@@ -2,7 +2,7 @@
 <h1>Alunos: <br> Bruno Queiroz Plata <br> Henrique Kenji</h1>
 
 <p>
-Nessa documentação relataremos o nosso processo criativo e desenvolvimento geral do jogo, inspirado na cena da cozinha do filme jurassic park 1.
+Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvimento do nosso jogo. O projeto foi inspirado na icônica cena da cozinha do filme Jurassic Park (1993), onde Velociraptors perseguem os protagonistas em uma cena tensa e claustrofóbica. Nosso objetivo foi reimaginar essa cena na forma de um jogo, tentando trazer a experiência do filme em um jogo.
 </p>
 
 ![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
