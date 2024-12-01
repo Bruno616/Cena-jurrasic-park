@@ -55,7 +55,7 @@ Mapa:
 
 <hr>
 
-<h1>Analise das Cores do filme</h1>
+<h1>:art:Analise das Cores do filme:t-rex:</h1>
 <p>
 No filme a teoria das cores intensifica a narrativa e provoca diferentes emoções. Cada cor reflete a tensão entre o controle humano e a força da natureza.
 
@@ -69,7 +69,7 @@ A iluminação complementa a paleta: luz natural quente durante o dia cria uma f
 
 </p>
 
-<h1>Analise das Cores da Cena</h1>
+<h1>:knife:Analise das Cores da Cena:art:</h1>
 <p>
 Na cena do Unity mantemos uma paleta de cores similar à original, com o objetivo de recriar a atmosfera fria e ameaçadora. O ambiente é dominado por tons metálicos e cinzas, com as bancadas e equipamentos em cinza escuro (#2F4F4F) e cinza metálico (#A9A9A9), conferindo uma sensação de frieza e de um espaço industrial.
 
