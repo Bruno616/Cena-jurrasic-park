@@ -36,7 +36,8 @@ A cena combina silêncio, sons repentinos e movimentos estratégicos para criar 
 <hr>
 
 <h1>Proposta da Cena</h1>
-
+<h2>Primeira ideia</h2>
+<p>Nossa primeira ideia era fazer um jogo com câmera em 3°pessoa, onde o jogador teria que andar por um labirinto, que seria a cozinha. Ele teria que desviar para não ser pego pelos dinossauros
 
 <h2>Personagens e assets utilizados</h2>
 
@@ -88,6 +89,10 @@ Em contraste com esse ambiente gelado, os velociraptors serão representados com
 ![Paleta_cena.jpg](https://github.com/user-attachments/assets/60d4093a-8d8d-4975-8d5c-55a3bf39805f)
 
 </p>
+
+<hr>
+<h1>Desenvolvimento do jogo(mapa, dinossauros, jogador, etc)</h1>
+
 
 <hr>
 
@@ -146,7 +151,10 @@ script recarrega cena:
 ![Screenshot_20241128_065027_Gallery.jpg](https://github.com/user-attachments/assets/e4d9ce4b-1319-49dc-856c-d338d4ff04db)
 
 <hr>
-<h1>De uma olhada no nosso projeto</h2>
+<h1>Relatório, oque cada um fez</h1>
+
+<hr>
+<h1>De uma olhada no nosso projeto!</h2>
 
 <h2>Vídeo do jogo:</h2>
 
@@ -155,3 +163,4 @@ https://youtu.be/tRk2zu3s-V0?si=aXhF4yzuKy0QEdwJ
 <h2>Link do Drive:</h2>
 
 https://drive.google.com/drive/folders/1hp0z-iXqjCD0IBqR-WdqBbcr8bCJI2Ic?usp=drive_link
+
