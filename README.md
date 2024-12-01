@@ -115,7 +115,7 @@ Começamos colocando um gameobject plano(chão) e depois colocar mais um plano e
 ![Plano.png](https://github.com/user-attachments/assets/2d06be02-a8d2-4091-ba50-1ce5c8b3d65b)
 
 <p>
-depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada.
+depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada. Também criamos um material com uma textura xadrez para colocar no chão e simular um chão de cozinha
 
 Assets Utilizados:
 
