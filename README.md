@@ -107,6 +107,8 @@ Personagem Principal: O jogador controla Tim Murphy, neto de John Hammond o dono
 <br>
 movimentação do jogador:
 
+![IMG-20241128-WA0019.jpg](https://github.com/user-attachments/assets/f0207152-0ef0-4285-84f5-c632e5a95f40)
+
 <br>
 
 Dinossauros: Existem cerca de 4 ou 5 dinossauros com cores variadas (verde, laranja e cinza). Eles seguem um movimento de patrulha, assim seguindo pontos predefinidos para cada um deles.
