@@ -174,7 +174,7 @@ script recarrega cena:
 
 <hr>
 
-<h2>:dodo:Diagrama:sauropod:</h2>
+<h2>:dodo:Diagramas:sauropod:</h2>
 
 <strong>Diagrama Antigo</strong>
 
