@@ -198,7 +198,9 @@ Fez o Readme/documentação
 
 Fez o Diagrama
 
-fez a análise das cores do filme e da cena
+Fez a análise das cores do filme e da cena
+
+Fez o esboço do mapa com a ajuda do Henrique kenji
 </ol>
 
 <strong>Henrique Kenji</strong>
