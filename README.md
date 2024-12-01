@@ -146,6 +146,7 @@ script recarrega cena:
 ![Screenshot_20241128_065027_Gallery.jpg](https://github.com/user-attachments/assets/e4d9ce4b-1319-49dc-856c-d338d4ff04db)
 
 <hr>
+<h1>De uma olhada no nosso projeto</h2>
 
 <h2>Vídeo do jogo:</h2>
 
