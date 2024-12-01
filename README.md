@@ -100,12 +100,16 @@ Neste jogo o jogador é colocado em um labirinto que montamos com diversos asset
 <h2>Dinâmica do Jogo:</h2>
 <p>
 Visão do Jogo: A câmera está posicionada de cima, proporcionando uma visão aérea de todo o labirinto, sendo até mesmo semelhante a uma câmera de jogo 2d, porém é 3d. O jogador assim que inicia o jogo já tem uma visão completa do jogo, vendo o labirinto todo e os inimigos também.
+<br>
+câmera do jogo:
+
+![IMG-20241128-WA0020.jpg](https://github.com/user-attachments/assets/5530eabd-eb77-47d4-a3bd-b4fd8f337957)
 
 <br>
 
 Personagem Principal: O jogador controla Tim Murphy, neto de John Hammond o dono do parque. O personagem tem uma camisa verde, cabelo castanho e calças em tons bege. Ele começa próximo à porta no canto esquerdo da tela e deve ir até a outra desviando dos inimigos.
 <br>
-movimentação do jogador:
+script movimentação do jogador:
 
 ![IMG-20241128-WA0019.jpg](https://github.com/user-attachments/assets/f0207152-0ef0-4285-84f5-c632e5a95f40)
 
