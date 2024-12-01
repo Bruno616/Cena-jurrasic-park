@@ -29,9 +29,11 @@ Jurassic Park explora temas como ética científica, arrogância humana, a impre
 
 <hr>
 
-<h1>Personagens e assets utilizados</h1>
+<h1>Proposta da Cena</h1>
 
-<h2>Tim Murphy, Protagonista</h2>
+<h2>Personagens e assets utilizados</h2>
+
+<h3>Tim Murphy, Protagonista</h3>
 
 <p>
 No nosso jogo usamos alguns assets da asset store para colocar os personagens.
@@ -43,7 +45,7 @@ link: https://assetstore.unity.com/packages/3d/characters/city-people-free-sampl
 
 ![Screenshot_20241126_230006_Chrome.jpg](https://github.com/user-attachments/assets/853bfdaa-4285-430d-a0fb-4c897e29245d)
 
-<h2>Velociraptors</h2>
+<h3>Velociraptors</h3>
 <p>
 Agora pro nosso inimigo usamos também um asset da asset store, um asset completo de dinossauros(animação, sons, texturas, prefbs, etc). usamos os modelos e variações de Velociraptors, usando também um animator para colocar uma animação de corrida nos dinossauros.
 <br>
