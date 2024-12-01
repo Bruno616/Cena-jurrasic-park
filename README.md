@@ -7,7 +7,7 @@
 Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvimento do nosso jogo. O projeto foi inspirado na icônica cena da cozinha do filme Jurassic Park (1993), onde Velociraptors perseguem os protagonistas em uma cena tensa e claustrofóbica. Nosso objetivo foi reimaginar essa cena na forma de um jogo, tentando trazer a experiência do filme em um jogo.
 </p>
 
-![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
+
 
 <hr>
 
@@ -20,7 +20,7 @@ A trama principal se desenvolve quando um grupo de especialistas – incluindo o
 Jurassic Park explora temas como ética científica, arrogância humana, a imprevisibilidade da natureza e as consequências de brincar de "Deus". Além disso, destaca a relação entre tecnologia e controle, levantando questões filosóficas sobre até onde a ciência deve ir. A obra combina tensão, ação e ciência, tornando-se uma das mais icônicas histórias da cultura pop, reconhecida tanto por sua narrativa instigante quanto pelos avanços tecnológicos em efeitos especiais introduzidos no filme.
 </p>
 
-
+![Cenas.jpg](https://github.com/user-attachments/assets/5bcfa8f6-576b-450d-b6cf-f104f78adc93)
 
 <h1>Descrição da Cena</h1>
 <p>
@@ -30,6 +30,8 @@ Os raptores entram silenciosamente, usando olfato e visão para localizar as cri
 
 A cena combina silêncio, sons repentinos e movimentos estratégicos para criar uma atmosfera de puro suspense. No final, Tim e Lex conseguem fugir, mas a sequência deixa o público em alerta, reforçando o constante perigo dos dinossauros.
 </p>
+
+![Dino.jpg](https://github.com/user-attachments/assets/8e33acdc-13dc-49e9-bdad-ed7fd52aa2f5)
 
 <hr>
 
