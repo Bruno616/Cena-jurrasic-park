@@ -11,7 +11,7 @@ Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvi
 
 <hr>
 
-<h1>Descrição do filme</h1>
+<h1>:t-rex:Descrição do filme:sauropod:</h1>
 <p>
 Jurassic Park é uma obra de ficção científica escrita por Michael Crichton, publicada originalmente em 1990, que se tornou um marco cultural graças à sua adaptação cinematográfica de 1993 dirigida por Steven Spielberg. A história gira em torno de um parque temático inovador, criado pelo bilionário John Hammond, onde dinossauros extintos são recriados geneticamente por meio da manipulação de DNA fossilizado.
 
@@ -22,7 +22,7 @@ Jurassic Park explora temas como ética científica, arrogância humana, a impre
 
 ![Parque.jpg](https://github.com/user-attachments/assets/aafdbf1d-4b28-4670-8d48-b870c68dcb45)
 
-<h1>Descrição da Cena</h1>
+<h1>:t-rex:Descrição da Cena:kitchen_knife:</h1>
 <p>
 A cena da cozinha em Jurassic Park é um dos momentos mais tensos do filme. Nela, Tim e Lex estão escondidos, tentando escapar de dois Velociraptors que invadiram o local. A cozinha industrial, com suas superfícies metálicas e equipamentos, amplifica cada som, aumentando a sensação de perigo.
 
@@ -35,7 +35,7 @@ A cena combina silêncio, sons repentinos e movimentos estratégicos para criar 
 
 <hr>
 
-<h1>Proposta da Cena</h1>
+<h1>:child:Proposta da Cena:kitchen_knife:</h1>
 <h2>Primeira ideia</h2>
 <p>Nossa primeira ideia era fazer um jogo com câmera em 3°pessoa, onde o jogador teria que andar por um labirinto, que seria a cozinha. Ele teria que desviar para não ser pego pelos dinossauros e ir coletando cartões de segurança para assim no final, após ter pego 4 cartões, ir para a porta que só é aberta quando o jogador pega todos os cartões.
 </p>
@@ -55,7 +55,7 @@ Mapa:
 
 <hr>
 
-<h2>Personagens e assets utilizados</h2>
+<h2>:t-rex:Personagens e assets utilizados:child:</h2>
 
 <h3>Tim Murphy, Protagonista</h3>
 
@@ -107,7 +107,7 @@ Em contraste com esse ambiente gelado, os velociraptors serão representados com
 </p>
 
 <hr>
-<h1>Desenvolvimento do jogo(mapa, dinossauros, jogador, etc)</h1>
+<h1>:child:Desenvolvimento do jogo(mapa, dinossauros, jogador, etc):sauropod:</h1>
 <p>
 Começamos colocando um gameobject plano(chão) e depois colocar mais um plano em cada lateral do plano chão, assim formando uma caixa.
 </p>
@@ -132,7 +132,7 @@ https://assetstore.unity.com/packages/3d/props/furniture/kitchen-furniture-start
 
 <hr>
 
-<h1>Explicação do Jogo</h1>
+<h1>:star:Explicação do Jogo:star:</h1>
 <h2>Como funciona</h2>
 <p>
 Neste jogo o jogador é colocado em um labirinto que montamos com diversos assets de cozinha, como bancadas, mesas, fogões, geladeiras e armários. O objetivo principal é atravessar a cozinha de uma porta a outra sem ser pego pelos dinossauros, e assim conseguindo fugir.
@@ -176,7 +176,7 @@ script recarrega cena:
 
 <hr>
 
-<h2>Diagrama</h2>
+<h2>:dodo:Diagrama:sauropod:</h2>
 
 <strong>Diagrama Antigo</strong>
 
@@ -219,11 +219,11 @@ procurou e Implementou os assets(cozinha, personagem, dinossauros)
 <hr>
 <h1>De uma olhada no nosso projeto!</h2>
 
-<h2>Vídeo do jogo:</h2>
+<h2>:dodo:Vídeo do jogo::sauropod:</h2>
 
 https://youtu.be/tRk2zu3s-V0?si=aXhF4yzuKy0QEdwJ
 
-<h2>Link do Drive:</h2>
+<h2>:dodo:Link do Drive::t-rex:</h2>
 
 https://drive.google.com/drive/folders/1hp0z-iXqjCD0IBqR-WdqBbcr8bCJI2Ic?usp=drive_link
 
