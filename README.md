@@ -68,7 +68,11 @@ A iluminação complementa a paleta: luz natural quente durante o dia cria uma f
 
 <h1>Analise das Cores da Cena</h1>
 <p>
+Na cena do Unity mantemos uma paleta de cores similar à original, com o objetivo de recriar a atmosfera fria e ameaçadora. O ambiente é dominado por tons metálicos e cinzas, com as bancadas e equipamentos em cinza escuro (#2F4F4F) e cinza metálico (#A9A9A9), conferindo uma sensação de frieza e de um espaço industrial.
 
+A iluminação da cena será projetada com um tom de azul frio (#B0C4DE), intensificando a sensação de um ambiente gelado e impessoal, características da cozinha do filme. Esse tom de azul também ajuda a destacar as formas e contornos dos objetos e dinossauros, enquanto reforça o clima de tensão.
+
+Em contraste com esse ambiente gelado, os velociraptors serão representados com uma cor verde acinzentado escuro (#556B2F), assim mostrando a natureza dos dinossauros e o ambiente artificial da cozinha
 </p>
 
 <hr>
