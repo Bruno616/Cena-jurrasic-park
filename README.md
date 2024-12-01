@@ -22,7 +22,7 @@ Jurassic Park explora temas como ética científica, arrogância humana, a impre
 
 ![Parque.jpg](https://github.com/user-attachments/assets/aafdbf1d-4b28-4670-8d48-b870c68dcb45)
 
-<h1>:t-rex:Descrição da Cena:kitchen_knife:</h1>
+<h1>:t-rex:Descrição da Cena:knife:</h1>
 <p>
 A cena da cozinha em Jurassic Park é um dos momentos mais tensos do filme. Nela, Tim e Lex estão escondidos, tentando escapar de dois Velociraptors que invadiram o local. A cozinha industrial, com suas superfícies metálicas e equipamentos, amplifica cada som, aumentando a sensação de perigo.
 
