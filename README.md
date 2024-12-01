@@ -72,6 +72,8 @@ Cores quentes, como vermelho (#AB0800) e laranja (#FF6F00), simbolizam perigo e 
 
 A iluminação complementa a paleta: luz natural quente durante o dia cria uma falsa segurança, enquanto a luz artificial noturna, com sombras e faróis, aumenta a tensão. Os veículos amarelo (#FFD700) e verde (#6DA544) integram tecnologia e natureza, mas suas cores vibrantes também os tornam alvos fáceis.
 
+![Paleta_filme.jpg](https://github.com/user-attachments/assets/d2011499-b74a-4440-b574-5e00fe1ec823)
+
 </p>
 
 <h1>Analise das Cores da Cena</h1>
