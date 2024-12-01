@@ -50,6 +50,7 @@ Dinossauros esses que teriam uma movimentação padrão de patrulha, assim segui
 Esse foi o nosso primeiro esboço de mapa, ele mostra os dinossauros de patrulha(pontos vermelhos) e os dinossauros que seguem(pontos vermelhos com um raio em volta). Mostra também a ideia dos atalhos, onde o jogador poderia passar por atalhos pelas bancadas para desviar dos dinossauros, e também o mapa demonstra os cartões que deveriam ser coletados.
 Mapa:
 </p>
+
 ![Mapa.jpg](https://github.com/user-attachments/assets/da675fc0-0d46-49b8-ae5d-f3f7c0238517)
 
 <hr>
