@@ -35,7 +35,7 @@ A cena combina silêncio, sons repentinos e movimentos estratégicos para criar 
 
 <hr>
 
-<h1>:child:Proposta da Cena:kitchen_knife:</h1>
+<h1>:child:Proposta da Cena:knife:</h1>
 <h2>Primeira ideia</h2>
 <p>Nossa primeira ideia era fazer um jogo com câmera em 3°pessoa, onde o jogador teria que andar por um labirinto, que seria a cozinha. Ele teria que desviar para não ser pego pelos dinossauros e ir coletando cartões de segurança para assim no final, após ter pego 4 cartões, ir para a porta que só é aberta quando o jogador pega todos os cartões.
 </p>
