@@ -225,3 +225,4 @@ https://youtu.be/tRk2zu3s-V0?si=aXhF4yzuKy0QEdwJ
 
 https://drive.google.com/drive/folders/1hp0z-iXqjCD0IBqR-WdqBbcr8bCJI2Ic?usp=drive_link
 
+![Zip.png](https://github.com/user-attachments/assets/18814e1b-ceb6-474a-a4c0-1cb3d44f2dc6)
