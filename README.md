@@ -24,7 +24,11 @@ Jurassic Park explora temas como ética científica, arrogância humana, a impre
 
 <h1>Descrição da Cena</h1>
 <p>
+A cena da cozinha em Jurassic Park é um dos momentos mais tensos do filme. Nela, Tim e Lex estão escondidos, tentando escapar de dois Velociraptors que invadiram o local. A cozinha industrial, com suas superfícies metálicas e equipamentos, amplifica cada som, aumentando a sensação de perigo.
 
+Os raptores entram silenciosamente, usando olfato e visão para localizar as crianças. A tensão cresce à medida que eles exploram o espaço com passos calculados. Em um momento crucial, Lex faz barulho ao esbarrar em uma colher, atraindo a atenção de um dos dinossauros. Usando um truque inteligente, ela engana o Velociraptor com o reflexo de um armário e escapa. Enquanto isso, Tim tenta se mover discretamente, mas acaba sendo perseguido.
+
+A cena combina silêncio, sons repentinos e movimentos estratégicos para criar uma atmosfera de puro suspense. No final, Tim e Lex conseguem fugir, mas a sequência deixa o público em alerta, reforçando o constante perigo dos dinossauros.
 </p>
 
 <hr>
