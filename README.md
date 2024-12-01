@@ -77,7 +77,7 @@ A iluminação complementa a paleta: luz natural quente durante o dia cria uma f
 
 <strong>Diagrama Antigo</strong>
 
-
+![Diagrama.jpg](https://github.com/user-attachments/assets/47e03ddc-2c42-42e0-8565-d0eb765bd963)
 
 <strong>Diagrama Corrigido</strong>
 
