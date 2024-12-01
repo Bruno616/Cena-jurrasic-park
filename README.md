@@ -83,6 +83,9 @@ Na cena do Unity mantemos uma paleta de cores similar à original, com o objetiv
 A iluminação da cena será projetada com um tom de azul frio (#B0C4DE), intensificando a sensação de um ambiente gelado e impessoal, características da cozinha do filme. Esse tom de azul também ajuda a destacar as formas e contornos dos objetos e dinossauros, enquanto reforça o clima de tensão.
 
 Em contraste com esse ambiente gelado, os velociraptors serão representados com uma cor verde acinzentado escuro (#556B2F), assim mostrando a natureza dos dinossauros e o ambiente artificial da cozinha
+
+![Paleta_cena.jpg](https://github.com/user-attachments/assets/60d4093a-8d8d-4975-8d5c-55a3bf39805f)
+
 </p>
 
 <hr>
