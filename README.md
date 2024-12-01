@@ -162,7 +162,7 @@ Script movimento de patrulha dinossauros:
 
 <br>
 
-Mecânica de Contato: Se o jogador encostar em um dinossauro. Atraves de um script a cena toda sera recarregada, assim fazendo o jogador voltar para o início da cena, trazendo a sensação que ele perdeu e está tendo outra chance.
+Mecânica de Contato: Se o jogador encostar em um dinossauro ou chegar na porta final. Atraves de um script a cena toda sera recarregada, assim fazendo o jogador voltar para o início da cena, trazendo a sensação que ele perdeu ou finalizou o jogo e está jogando denovo.
 
 <br>
 
