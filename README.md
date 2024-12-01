@@ -37,6 +37,7 @@ A cena combina silêncio, sons repentinos e movimentos estratégicos para criar 
 
 <h1>Proposta da Cena</h1>
 
+
 <h2>Personagens e assets utilizados</h2>
 
 <h3>Tim Murphy, Protagonista</h3>
@@ -85,6 +86,36 @@ A iluminação da cena será projetada com um tom de azul frio (#B0C4DE), intens
 Em contraste com esse ambiente gelado, os velociraptors serão representados com uma cor verde acinzentado escuro (#556B2F), assim mostrando a natureza dos dinossauros e o ambiente artificial da cozinha
 
 ![Paleta_cena.jpg](https://github.com/user-attachments/assets/60d4093a-8d8d-4975-8d5c-55a3bf39805f)
+
+</p>
+
+<hr>
+
+<h1>Explicação do Jogo</h1>
+<h2>Como funciona</h2>
+<p>
+Neste jogo o jogador é colocado em um labirinto que montamos com diversos assets de cozinha, como bancadas, mesas, fogões, geladeiras e armários. O objetivo principal é atravessar a cozinha de uma porta a outra sem ser pego pelos dinossauros, e assim conseguindo fugir.
+</p>
+
+<h2>Dinâmica do Jogo:</h2>
+<p>
+Visão do Jogo: A câmera está posicionada de cima, proporcionando uma visão aérea de todo o labirinto, sendo até mesmo semelhante a uma câmera de jogo 2d, porém é 3d. O jogador assim que inicia o jogo já tem uma visão completa do jogo, vendo o labirinto todo e os inimigos também.
+
+<br>
+
+Personagem Principal: O jogador controla Tim Murphy, neto de John Hammond o dono do parque. O personagem tem uma camisa verde, cabelo castanho e calças em tons bege. Ele começa próximo à porta no canto esquerdo da tela e deve ir até a outra desviando dos inimigos.
+
+<br>
+
+Dinossauros: Existem cerca de 4 ou 5 dinossauros com cores variadas (verde, laranja e cinza). Eles seguem um movimento de patrulha, assim seguindo pontos predefinidos para cada um deles.
+
+<br>
+
+Mecânica de Contato: Se o jogador encostar em um dinossauro. Atraves de um script a cena toda sera recarregada, assim fazendo o jogador voltar para o início da cena, trazendo a sensação que ele perdeu e está tendo outra chance.
+
+<br>
+
+script recarrega cena:
 
 </p>
 
