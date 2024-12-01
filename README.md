@@ -116,7 +116,10 @@ Começamos colocando um gameobject plano(chão) e depois colocar mais um plano e
 
 <p>
 depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada.
+
+Assets Utilizados:
 </p>
+
 
 <hr>
 
