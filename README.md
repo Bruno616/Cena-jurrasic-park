@@ -104,6 +104,8 @@ Visão do Jogo: A câmera está posicionada de cima, proporcionando uma visão a
 <br>
 
 Personagem Principal: O jogador controla Tim Murphy, neto de John Hammond o dono do parque. O personagem tem uma camisa verde, cabelo castanho e calças em tons bege. Ele começa próximo à porta no canto esquerdo da tela e deve ir até a outra desviando dos inimigos.
+<br>
+movimentação do jogador:
 
 <br>
 
