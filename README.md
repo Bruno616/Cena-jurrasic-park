@@ -108,6 +108,10 @@ Personagem Principal: O jogador controla Tim Murphy, neto de John Hammond o dono
 <br>
 
 Dinossauros: Existem cerca de 4 ou 5 dinossauros com cores variadas (verde, laranja e cinza). Eles seguem um movimento de patrulha, assim seguindo pontos predefinidos para cada um deles.
+<br>
+Script movimento de patrulha dinossauros:
+
+![IMG-20241128-WA0017.jpg](https://github.com/user-attachments/assets/926534df-5f24-4be6-a502-bc0a09a541d5)
 
 <br>
 
@@ -116,6 +120,8 @@ Mecânica de Contato: Se o jogador encostar em um dinossauro. Atraves de um scri
 <br>
 
 script recarrega cena:
+
+![IMG-20241126-WA0006.jpg](https://github.com/user-attachments/assets/35b844bd-548a-4150-864d-adece32f1a12)
 
 </p>
 
