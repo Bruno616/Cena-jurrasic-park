@@ -20,7 +20,7 @@ A trama principal se desenvolve quando um grupo de especialistas – incluindo o
 Jurassic Park explora temas como ética científica, arrogância humana, a imprevisibilidade da natureza e as consequências de brincar de "Deus". Além disso, destaca a relação entre tecnologia e controle, levantando questões filosóficas sobre até onde a ciência deve ir. A obra combina tensão, ação e ciência, tornando-se uma das mais icônicas histórias da cultura pop, reconhecida tanto por sua narrativa instigante quanto pelos avanços tecnológicos em efeitos especiais introduzidos no filme.
 </p>
 
-![Cenas.jpg](https://github.com/user-attachments/assets/5bcfa8f6-576b-450d-b6cf-f104f78adc93)
+![Parque.jpg](https://github.com/user-attachments/assets/aafdbf1d-4b28-4670-8d48-b870c68dcb45)
 
 <h1>Descrição da Cena</h1>
 <p>
@@ -118,8 +118,17 @@ Começamos colocando um gameobject plano(chão) e depois colocar mais um plano e
 depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada.
 
 Assets Utilizados:
-</p>
 
+![Cozinha.jpg](https://github.com/user-attachments/assets/73fd597d-37f9-4fcf-8bb3-b71796deafef)
+
+links:
+https://assetstore.unity.com/packages/3d/props/interior/kitchen-props-free-80208
+
+https://assetstore.unity.com/packages/3d/props/furniture/kitchen-set-interior-263284
+
+https://assetstore.unity.com/packages/3d/props/furniture/kitchen-furniture-starterpack-209331
+
+</p>
 
 <hr>
 
