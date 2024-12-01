@@ -37,7 +37,20 @@ A cena combina silêncio, sons repentinos e movimentos estratégicos para criar 
 
 <h1>Proposta da Cena</h1>
 <h2>Primeira ideia</h2>
-<p>Nossa primeira ideia era fazer um jogo com câmera em 3°pessoa, onde o jogador teria que andar por um labirinto, que seria a cozinha. Ele teria que desviar para não ser pego pelos dinossauros
+<p>Nossa primeira ideia era fazer um jogo com câmera em 3°pessoa, onde o jogador teria que andar por um labirinto, que seria a cozinha. Ele teria que desviar para não ser pego pelos dinossauros e ir coletando cartões de segurança para assim no final, após ter pego 4 cartões, ir para a porta que só é aberta quando o jogador pega todos os cartões.
+</p>
+<br>
+<h2>Jogabilidade</h2>
+<p>Nossa ideia inicial era o jogador controlar o personagem Tim Murphy numa visão em 3°pessoa pelo labirinto todo. O jogador iria coletar os cartões para abrir a porta e tentar não ser pego pelos dinossauros no caminho.
+Dinossauros esses que teriam uma movimentação padrão de patrulha, assim seguindo pontos predefinidos. Porém também teriam dinossauros com uma movimentação diferente, onde se o jogador entrasse no raio desses dinossauros ele seria seguido, como o jogador é seria mais rápido que esse tipo de dinossauro ele poderia fugir do raio, assim não sendo seguido infinitamente.
+</p>
+<hr>
+<h2>Esboços conceituais</h2>
+<p>
+Esse foi o nosso primeiro esboço de mapa, ele mostra os dinossauros de patrulha(pontos vermelhos) e os dinossauros que seguem(pontos vermelhos com um raio em volta). Mostra também a ideia dos atalhos, onde o jogador poderia passar por atalhos pelas bancadas para desviar dos dinossauros, e também o mapa demonstra os cartões que deveriam ser coletados.
+Mapa:
+</p>
+
 
 <h2>Personagens e assets utilizados</h2>
 
