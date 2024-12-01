@@ -196,7 +196,9 @@ Implementou a Movimentação do jogador
 
 Fez o Readme/documentação
 
+Fez o Diagrama
 
+fez a análise das cores do filme e da cena
 </ol>
 
 <strong>Henrique Kenji</strong>
@@ -208,6 +210,7 @@ Montou o cenário(colocou os assets, os box colliders e colocou o material no ch
 
 procurou e Implementou os assets(cozinha, personagem, dinossauros)
 
+Fez a descrição da cena e filme
 </ol>
 
 </p>
