@@ -7,7 +7,7 @@
 Nesta documentação, detalharemos o processo criativo e as etapas de desenvolvimento do nosso jogo. O projeto foi inspirado na icônica cena da cozinha do filme Jurassic Park (1993), onde Velociraptors perseguem os protagonistas em uma cena tensa e claustrofóbica. Nosso objetivo foi reimaginar essa cena na forma de um jogo, tentando trazer a experiência do filme em um jogo.
 </p>
 
-
+![Port.jpg](https://github.com/user-attachments/assets/3a085042-4272-4cdf-bd84-c84b993fc8bf)
 
 <hr>
 
