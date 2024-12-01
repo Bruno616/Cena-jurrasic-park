@@ -189,8 +189,24 @@ script recarrega cena:
 <hr>
 <h1>Relatório, oque cada um fez</h1>
 <p>
+<strong>Bruno Queiroz Plata</strong>
 <ol>
-jsk
+Movimentação de patrulha dos dinossauros
+
+procurou os assets dos dinossauros e do personagem
+
+Fez o Readme/documentação
+</ol>
+
+<strong>Henrique Kenji</strong>
+<ol>
+Fez a movimentação
+
+Montou o cenário(colocou os assets e os box colliders)
+
+procurou os assets da cozinha
+
+
 </ol>
 
 </p>
