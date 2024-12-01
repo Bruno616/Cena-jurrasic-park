@@ -94,7 +94,7 @@ depois disso começamos a construir o cenário utilizando diversos assets de coz
 
 Assets Utilizados:
 
-![Cozinha.jpg](https://github.com/user-attachments/assets/73fd597d-37f9-4fcf-8bb3-b71796deafef)
+![20241201_195821_0000.jpg](https://github.com/user-attachments/assets/0865f5b5-4269-4f77-a2c2-9f691c2c361f)
 
 links:
 https://assetstore.unity.com/packages/3d/props/interior/kitchen-props-free-80208
@@ -102,6 +102,8 @@ https://assetstore.unity.com/packages/3d/props/interior/kitchen-props-free-80208
 https://assetstore.unity.com/packages/3d/props/furniture/kitchen-set-interior-263284
 
 https://assetstore.unity.com/packages/3d/props/furniture/kitchen-furniture-starterpack-209331
+
+https://assetstore.unity.com/packages/3d/props/metal-door-5397
 
 </p>
 
