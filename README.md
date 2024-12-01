@@ -191,21 +191,24 @@ script recarrega cena:
 <p>
 <strong>Bruno Queiroz Plata</strong>
 <ol>
-Movimentação de patrulha dos dinossauros
 
-procurou os assets dos dinossauros e do personagem
+Implementou a movimentação de patrulha dos dinossauros
+
+Implementou a Movimentação do jogador
 
 Fez o Readme/documentação
+
+
 </ol>
 
 <strong>Henrique Kenji</strong>
 <ol>
-Fez a movimentação
 
-Montou o cenário(colocou os assets e os box colliders)
+Implementou o script de recarregar a cena
 
-procurou os assets da cozinha
+Montou o cenário(colocou os assets, os box colliders e colocou o material no chão)
 
+procurou e Implementou os assets(cozinha, personagem, dinossauros)
 
 </ol>
 
