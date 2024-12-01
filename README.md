@@ -188,6 +188,14 @@ script recarrega cena:
 
 <hr>
 <h1>Relatório, oque cada um fez</h1>
+<p>
+<ol>
+jsk
+</ol>
+
+</p>
+
+
 
 <hr>
 <h1>De uma olhada no nosso projeto!</h2>
