@@ -118,7 +118,7 @@ https://assetstore.unity.com/packages/3d/props/metal-door-5397
 Ele é o protagonista do nosso jogo e usamos alguns assets da asset store para colocar ele é os dinossauros.
 <br>
 Usamos esse asset de alguns personagens padrões low poly, no caso usamos a criança para representar o Tim Murphy, netos do dono do parque John Hammond. <br>
-Análise do protagonista: <br>
+<strong> Análise do protagonista: </strong> <br>
 Tim Murphy é um garoto curioso e inteligente, apaixonado por dinossauros e ciência. Sua coragem e resiliência se destacam, mesmo em situações perigosas, e ele mantém um forte vínculo com sua irmã, mostrando um lado protetor. Com uma mente afiada e um coração aberto, Tim combina determinação e curiosidade, características que o ajudam a enfrentar desafios com maturidade além da sua idade.
 
 <br>
