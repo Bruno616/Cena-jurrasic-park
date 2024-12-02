@@ -93,7 +93,9 @@ Começamos colocando um gameobject plano(chão) e depois colocar mais um plano e
 ![Plano.png](https://github.com/user-attachments/assets/2d06be02-a8d2-4091-ba50-1ce5c8b3d65b)
 
 <p>
-depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada. Também criamos um material com uma textura xadrez para colocar no chão e simular um chão de cozinha. Também colocamos as portas, uma no inicio(onde o jogador começa sua jornada) e outra no final(saída e objetivo final)
+depois disso começamos a construir o cenário utilizando diversos assets de cozinha, como bancadas, fogões, geladeiras, armários e mesas, todos obtidos na Asset Store do Unity. Em seguida, aplicamos box colliders em cada um desses objetos para garantir que o jogador não pudesse atravessá-los. Essa etapa foi essencial para preservar a funcionalidade do labirinto, já que permitir a passagem através dos objetos comprometeria a dinâmica de desafio e exploração planejada. Também criamos um material com uma textura xadrez para colocar no chão e simular um chão de cozinha. Também colocamos as portas, uma no inicio(onde o jogador começa sua jornada) e outra no final(saída e objetivo final).
+
+Usamos character controller no personagem principal, colocamos também um script de movimentação que simula a gravidade. Nos colocamos os pontos de patrulha dos dinossauros(gameobject sphere)e fomos adicionando ao código de cada dinossauro individualmente. também colocamos o código de recarregar a cena em cada dinossauro e na porta.
 
 Assets Utilizados:
 
