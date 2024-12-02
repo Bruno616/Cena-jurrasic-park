@@ -1,5 +1,8 @@
 # Cena-jurrasic-park
 <h1>Alunos: <br> Bruno Queiroz Plata <br> Henrique Kenji</h1>
+<h2>Filme: Jurassic Park <br> Cena:Cena da cozinha com os velociraptors
+</h2>
+
 
 <h2>:star:Introdução:star:</h2>
 
