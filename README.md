@@ -110,7 +110,7 @@ https://assetstore.unity.com/packages/3d/props/metal-door-5397
 
 </p>
 
-<h2>:t-rex:Personagens e assets utilizados:child:</h2>
+<h2>:t-rex:Personagens, assets utilizados e analise dos protagonistas:child:</h2>
 
 <h3>Tim Murphy, Protagonista</h3>
 
